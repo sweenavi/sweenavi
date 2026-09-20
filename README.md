@@ -8,7 +8,7 @@ solutions, and learning by building.
 GitHub •
 LinkedIn
 
-=>About Me
+##About Me
 
 I’m a TY B.Tech student in Artificial Intelligence & Data Science.
 My current focus is moving from learning concepts to building practical
