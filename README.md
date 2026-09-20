@@ -5,8 +5,8 @@ AI & Data Science Student • Problem Solver • Builder
 I enjoy understanding how things work, turning ideas into practical
 solutions, and learning by building.
 
-GitHub •
-LinkedIn
+[GitHub](https://github.com/sweenavi)
+[LinkedIn](https://linkedin.com/in/vaishnavi-sopan-sabale)
 
 ##About Me
 
