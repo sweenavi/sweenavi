@@ -1,33 +1,161 @@
-## Hi there 👋
-# 💫 About Me:
-🛠 I’m currently working on<br><br>MERN Stack projects (Lost & Found System, Tailoring Management System)<br><br>AI & Data Science–oriented problem-solving projects<br><br>Improving DSA with strong fundamentals + patterns<br><br>🤝 I’m looking to collaborate on<br><br>Web development projects (React, Node.js, MongoDB)<br><br>Hackathons (SIH-style problem statements)<br><br>Beginner-friendly AI / ML applications<br><br>🤲 I’m looking for help with<br><br>Advanced DSA problem-solving strategies<br><br>System design basics for student-level projects<br><br>Deploying full-stack applications confidently<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms (from brute force → optimized)<br><br>MERN Stack (end-to-end flow)<br><br>AI & Data Science fundamentals<br><br>💬 Ask me about<br><br>MERN Stack projects<br><br>College-level hackathons & project planning<br><br>Balancing academics with skill-building<br><br>⚡ Fun fact<br><br>I’m a part-time sketch artist who codes with creativity 🎨💻
+Hi, I’m Vaishnavi
 
+AI & Data Science Student • Problem Solver • Builder
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sweenavi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-sopan-sabale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsabale15847@gmail.com) 
+I enjoy understanding how things work, turning ideas into practical
+solutions, and learning by building.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sweenavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sweenavi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sweenavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+GitHub •
+LinkedIn
 
----
-[![](https://visitcount.itsvg.in/api?id=sweenavi&icon=0&color=0)](https://visitcount.itsvg.in)
+=>About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**sweenavi/sweenavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a TY B.Tech student in Artificial Intelligence & Data Science.
+My current focus is moving from learning concepts to building practical
+solutions.
 
-Here are some ideas to get you started:
+=>DSA & problem solving — learning patterns and moving from brute
+force to optimized solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+=>AI / ML / GenAI — strengthening fundamentals and building practical
+applications
+
+=>IoT & AIoT — connecting sensors, devices, software and intelligent
+decision-making
+
+=>Project building — problem → architecture → implementation →
+deployment
+
+=>Research — exploring AI-based preservation and digitization of
+historical Modi Lipi documents
+
+##Core CS + GATE preparation — strengthening fundamentals alongside
+practical skills
+
+My learning philosophy: Understand the problem first. Build
+second. Improve continuously.
+
+##What I’m Working On
+
+=>BorderShield AI
+
+An AI-assisted decision-support prototype for difficult high-altitude
+terrain.
+
+Focus: route analysis • risk-aware decision support • graph-based
+routing • explainable outputs
+
+=>IoT + AI Projects
+
+Exploring practical classroom/campus intelligence systems using sensors,
+edge devices, communication and AI-based analysis.
+
+=>Modi Lipi Research Direction
+
+Exploring how computer vision, OCR and AI can help digitize and preserve
+historical Modi Lipi documents.
+
+Projects marked as work-in-progress are intentionally presented as
+ongoing learning/research rather than finished products.
+
+##Technical Focus
+
+Languages
+
+C C++ Java Python JavaScript
+
+AI / Data
+
+Python NumPy Pandas scikit-learn
+
+Development
+
+React Node.js Express MongoDB MySQL
+
+Tools & Platforms
+
+Git GitHub VS Code Vercel Supabase
+
+Currently Strengthening
+
+DSA • Machine Learning • GenAI • IoT • System Thinking •
+Technical Communication
+
+##How I Like to Work
+
+Understand the problem
+        ↓
+Break it into smaller parts
+        ↓
+Learn what is needed
+        ↓
+Design the solution
+        ↓
+Implement
+        ↓
+Test + debug
+        ↓
+Explain what I built
+        ↓
+Improve it
+
+I don’t want to learn technologies only for certificates. I want to
+understand where they fit, why they are useful, and how to build with
+them.
+
+=>GitHub Activity
+
+<!-- Dynamic cards: these update from GitHub data when GitHub renders the images. -->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sweenavi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="Vaishnavi's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweenavi&layout=compact&hide_border=true&langs_count=8" height="170" alt="Vaishnavi's top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sweenavi&hide_border=true&area=true" width="95%" alt="Vaishnavi's GitHub activity graph" />
+
+</div>
+
+Note: These cards are generated from GitHub activity rather than
+hard-coded numbers. Public stats services can still be cached or
+temporarily rate-limited.
+
+##What I’m Learning Next
+
+Advanced DSA and problem-solving patterns
+
+Machine Learning from fundamentals to implementation
+
+Generative AI and agent-based systems
+
+Computer Vision + OCR
+
+IoT systems and AIoT
+
+Cloud deployment and practical system design
+
+Research methodology and paper writing
+
+##Long-Term Goal
+
+To become an engineer who can take an unfamiliar problem, understand it
+deeply, design a practical solution, build it, and communicate it
+clearly.
+
+Learning → Building → Researching → Improving
+
+##Let’s Connect
+
+If you’re interested in AI, ML, Data Science, IoT, problem solving, or
+student-led projects, feel free to connect.
+
+<div align="center">
+
+Thanks for visiting my profile! 🌱
+
+</div>
