@@ -103,23 +103,11 @@ I don’t want to learn technologies only for certificates. I want to
 understand where they fit, why they are useful, and how to build with
 them.
 
-=>GitHub Activity
+=> GitHub Activity
 
-<!-- Dynamic cards: these update from GitHub data when GitHub renders the images. -->
+I use GitHub to document my projects, experiments, learning progress and technical work.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sweenavi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="Vaishnavi's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweenavi&layout=compact&hide_border=true&langs_count=8" height="170" alt="Vaishnavi's top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sweenavi&hide_border=true&area=true" width="95%" alt="Vaishnavi's GitHub activity graph" />
-
-</div>
+<p align="center"> <a href="https://github.com/sweenavi"> <img src="https://img.shields.io/badge/GitHub-sweenavi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> </a> </p> <p align="center"> <a href="https://github.com/sweenavi?tab=repositories"> <img src="https://img.shields.io/badge/View%20Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="View Repositories"/> </a> <a href="https://github.com/sweenavi?tab=stars"> <img src="https://img.shields.io/badge/Explore%20Stars-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Stars"/> </a> </p>
 
 Note: These cards are generated from GitHub activity rather than
 hard-coded numbers. Public stats services can still be cached or
